@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RogueSemester.App/RogueSemester.App.csproj" />
+  <Project Path="RogueSemester.Core/RogueSemester.Core.csproj" />
+  <Project Path="RogueSemester.Reporting/RogueSemester.Reporting.csproj" />
+</Solution>
