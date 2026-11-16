@@ -1,0 +1,16 @@
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.deps.json
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.dll
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Reporting.pdb
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Core.dll
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\bin\Debug\net10.0\RogueSemester.Core.pdb
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.csproj.AssemblyReference.cache
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.AssemblyInfoInputs.cache
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.AssemblyInfo.cs
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.csproj.CoreCompileInputs.cache
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.sourcelink.json
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSem.F6C906D2.Up2Date
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.dll
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\refint\RogueSemester.Reporting.dll
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\RogueSemester.Reporting.pdb
+D:\WORK\s38253\projekty_pprg\RogueSemester\RogueSemester.Reporting\obj\Debug\net10.0\ref\RogueSemester.Reporting.dll

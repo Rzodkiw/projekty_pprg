@@ -1,11 +1,49 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "RogueSemester.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/RogueSemester.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RogueSemester.Core.dll": {}
+        }
+      },
+      "RogueSemester.Reporting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "RogueSemester.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RogueSemester.Reporting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RogueSemester.Reporting.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RogueSemester.Core/1.0.0": {
+      "type": "project",
+      "path": "../RogueSemester.Core/RogueSemester.Core.csproj",
+      "msbuildProject": "../RogueSemester.Core/RogueSemester.Core.csproj"
+    },
+    "RogueSemester.Reporting/1.0.0": {
+      "type": "project",
+      "path": "../RogueSemester.Reporting/RogueSemester.Reporting.csproj",
+      "msbuildProject": "../RogueSemester.Reporting/RogueSemester.Reporting.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "RogueSemester.Core >= 1.0.0",
+      "RogueSemester.Reporting >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\s38253\\.nuget\\packages\\": {}
@@ -32,7 +70,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\WORK\\s38253\\projekty_pprg\\RogueSemester\\RogueSemester.Core\\RogueSemester.Core.csproj": {
+              "projectPath": "D:\\WORK\\s38253\\projekty_pprg\\RogueSemester\\RogueSemester.Core\\RogueSemester.Core.csproj"
+            },
+            "D:\\WORK\\s38253\\projekty_pprg\\RogueSemester\\RogueSemester.Reporting\\RogueSemester.Reporting.csproj": {
+              "projectPath": "D:\\WORK\\s38253\\projekty_pprg\\RogueSemester\\RogueSemester.Reporting\\RogueSemester.Reporting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
